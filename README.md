@@ -2,5 +2,6 @@
 このリポジトリはGit動画講座用です．
  
 conflictブランチで変更2
-Github上で更新2回目
+Conflict-remote上で更新(conflict発生)
+
 
